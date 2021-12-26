@@ -1,0 +1,84 @@
+.ul a{
+    text-decoration: none;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin:80px;
+}
+
+
+
+.nike:hover{
+    color: lightblue;
+    font-weight:bold ;
+}
+
+.ns:active{
+    color: red;
+    font-style: italic;
+}
+
+
+.knvb:visited{
+    color: yellow;
+}
+
+.email:focus{
+    
+    background-color: green ;
+    color: lightgray;
+    font-size: 20px;
+    
+
+}
+
+
+/* header{
+
+} */
+
+ulli{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+    
+}
+
+li{
+    display: inline-block;
+    padding: 10px 20px;
+    padding-left: 0;
+    margin-left: 0%;
+   
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(128, 124, 124);
+
+}
+
+nav{
+    background-color: darkblue;
+   
+}
+
+#currentPage{
+    background-color: gray;
+    color: blanchedalmond;
+}
+
+#about:hover{
+    
+    background-color: lightblue;
+    font-weight: bolder;
+}
+
+#search:focus{
+    border: solid 3px aqua;
+    background-color: beige;
+    font-size: 25px;
+
+ }
